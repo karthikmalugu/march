@@ -1,3 +1,3 @@
-senderemail = 'karthikblogs01@gmail.com'
+senderemail = ''
 epwd = ''
-to = 'karthikmalugu30@gmail.com'
+to = ''
